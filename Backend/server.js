@@ -4,7 +4,7 @@ const port = 3000
 
 
 app.get('/', (req, res) => {
-    res.send('Server is Working fine ')
+    res.send('Journey Begins!')
   })
 
   
